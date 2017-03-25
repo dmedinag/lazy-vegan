@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lazy Vegan</string>
+    <string name="open_camera">Open Camera</string>
 </resources>
